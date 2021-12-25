@@ -11,12 +11,12 @@ body {
     90deg,
      #ffffff,
      #ff1a1a,
-     #000000);                         
+     #7e0000);                         
      background: linear-gradient(
        90deg,
         #ffffff,
         #ff1a1a,
-        #000000);                                              
+        #7e0000);                                              
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#feffff', endColorstr='#d2ebf9',GradientType=0 );
 }
 
