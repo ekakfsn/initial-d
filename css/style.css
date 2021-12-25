@@ -1,0 +1,151 @@
+body {
+  font-size: 16px;
+  font-family: "Roboto", Arial, sans-serif;
+  line-height: 24px;
+  color: black;
+  margin: 0;
+  padding: 0;
+  font-weight: normal;
+  font-style: normal;
+  background: rgb(254, 255, 255);
+  background: -moz-linear-gradient(
+    top,
+    rgba(254, 255, 255, 1) 0%,
+    rgba(210, 235, 249, 1) 100%
+  );
+  background: -webkit-linear-gradient(
+    top,
+    rgba(254, 255, 255, 1) 0%,
+    rgba(210, 235, 249, 1) 100%
+  );
+  background: linear-gradient(
+    to bottom,
+    rgba(254, 255, 255, 1) 0%,
+    rgba(210, 235, 249, 1) 100%
+  );
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#feffff', endColorstr='#d2ebf9',GradientType=0 );
+}
+
+a {
+  text-decoration: none;
+}
+
+.navigation {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-left: 125px;
+  margin-top: -170px;
+}
+
+.nav-item {
+  margin-right: 50px;
+}
+
+nav {
+  display: flex;
+}
+
+.top {
+  background: url("../img/shan.png") no-repeat 50%;
+  height: 150px;
+  color: cornsilk;
+  background-size: contain;
+}
+
+.top-link {
+  color: black;
+}
+
+.top-link:hover {
+  color: red;
+}
+
+.pot {
+  background-color: black;
+  height: 130px;
+}
+
+.pot-link {
+  margin: 15px;
+  color: white;
+  margin-right: 50px;
+}
+
+.pot-link:hover {
+  color: red;
+}
+
+.pott {
+  color: white;
+  margin-inline: 600px;
+  margin-bottom: 20px;
+}
+
+/* .vop {
+  width: 300px;
+} */
+
+.log {
+  padding: 20px;
+}
+
+ul {
+  list-style: none;
+}
+
+.hot {
+  margin-block: 30px;
+  margin-inline: 10px;
+}
+
+/* .the {
+  margin-inline: 350px;
+  margin-block: 40px;
+} */
+
+/* .lol {
+  margin-inline: 410px;
+  margin-block: 40px;
+} */
+
+.lok {
+  margin-bottom: 30px;
+}
+
+.loi {
+  object-fit: contain;
+}
+
+.border-line {
+  border: solid 2px black;
+}
+
+.card-body {
+  margin-inline: 10px;
+  font-size: 25px;
+  line-height: 10px;
+}
+
+.card {
+  background: rgb(254, 255, 255);
+  background: -moz-linear-gradient(
+    top,
+    rgba(254, 255, 255, 1) 0%,
+    rgba(210, 235, 249, 1) 100%
+  );
+  background: -webkit-linear-gradient(
+    top,
+    rgba(254, 255, 255, 1) 0%,
+    rgba(210, 235, 249, 1) 100%
+  );
+  background: linear-gradient(
+    to bottom,
+    rgba(254, 255, 255, 1) 0%,
+    rgba(210, 235, 249, 1) 100%
+  );
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#feffff', endColorstr='#d2ebf9',GradientType=0 );
+}
